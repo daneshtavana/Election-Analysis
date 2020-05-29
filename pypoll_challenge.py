@@ -1,5 +1,5 @@
 # Psuedocode
-# 1-Open the data file.
+# 1-Open the data file
 # 2-A complete list of candidates who received votes
 # 3-Total number of votes each candidate received
 # 4-Total number of votes cast for election
